@@ -35,3 +35,13 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+.low {
+  background-color: green;
+}
+.medium {
+  background-color: yellow;
+}
+.high {
+  background-color: red;
+}
